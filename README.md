@@ -1,17 +1,3 @@
-# Prebid Outstream Renderer
-
-> A free and open source library for publishers to quickly implement outstream renderer.
-
-This README is for developers who want to use this project to implement outstream renderer.
-
-**Table of Contents**
-
-- [Usage](#Usage)
-- [Install](#Install)
-- [Development Build](#Developement_Build)
-- [Production Build](#Production_Build)
-- [Run](#Run)
-
 <a name="Usage"></a>
 
 ## Usage (as a npm dependency)
